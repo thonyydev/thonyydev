@@ -15,9 +15,6 @@ Minha paixão pela programação me levou a aprender várias linguagens e tecnol
 - **HTML/CSS:** A base de qualquer desenvolvedor web, certo?
 - **Lua:** Uma linguagem incrível para scripting em jogos e aplicações embutidas.
 
-## 🕹️ Experiência em Desenvolvimento de Jogos
-Atualmente, estou focado na área de desenvolvimento de jogos utilizando a Unity. Adoro criar mundos virtuais e experiências interativas que cativam os jogadores. Meu conhecimento em C# e a paixão por jogos me permitem trabalhar em projetos empolgantes.
-
 ## 🚀 Projetos
 Eu sou um entusiasta de projetos de código aberto e sempre estou trabalhando em algo empolgante. Você pode conferir meus projetos no meu perfil do GitHub [aqui](https://github.com/thonyydev).
 
