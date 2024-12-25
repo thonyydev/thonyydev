@@ -1,18 +1,18 @@
-# 👋 Olá!
+# 👋 Hello!
 
-## Sobre Mim
-Eu sou Anthony, um apaixonado programador de 17 anos, com mais de 4 anos de experiência no mundo da programação. 🎉 Minha jornada na programação começou quando eu tinha apenas 13 anos, e desde então tenho mergulhado de cabeça no universo da codificação.
+## About Me
+I'm Anthony, a passionate 17-year-old programmer with over 4 years of experience in the world of coding. 🎉 My programming journey began when I was just 13, and since then, I've been diving headfirst into the universe of coding.
 
-## 💼 Habilidades
-Minha paixão pela programação me levou a aprender várias linguagens e tecnologias. Aqui estão algumas das minhas habilidades:
+## 💼 Skills
+My love for programming has driven me to learn various languages and technologies. Here are some of my skills:
 
-- **Javascript:** Adoro criar aplicativos web interativos e dinâmicos.
-- **C#:** Principalmente para desenvolvimento de aplicativos Windows e jogos no Unity.
-- **Python:** Uma linguagem versátil que uso para automação, análise de dados e desenvolvimento web.
-- **Dart/Flutter:** Para criar aplicativos móveis elegantes e funcionais.
-- **HTML/CSS:** A base de qualquer desenvolvedor web, certo?
+- **Javascript:** I enjoy creating interactive and dynamic web applications.
+- **C#:** Mainly for developing Windows applications and games in Unity.
+- **Python:** A versatile language I use for automation, data analysis, and web development.
+- **Dart/Flutter:** To build sleek and functional mobile applications.
+- **HTML/CSS:** The foundation of any web developer, right?
 
-## 🚀 Projetos
-Eu sou um entusiasta de projetos de código aberto e sempre estou trabalhando em algo empolgante. Você pode conferir meus projetos no meu perfil do GitHub [aqui](https://github.com/thonyydev).
+## 🚀 Projects
+I'm an open-source enthusiast and always working on something exciting. You can check out my projects on my GitHub profile [here](https://github.com/thonyydev).
 
-Estou sempre animado para conhecer outros entusiastas da programação e colaborar em projetos interessantes. Vamos criar coisas incríveis juntos! 🤝
+I'm always excited to connect with other programming enthusiasts and collaborate on interesting projects. Let's create amazing things together! 🤝
