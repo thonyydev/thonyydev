@@ -1,7 +1,7 @@
 # 👋 Hello!
 
 ## About Me
-I'm Anthony, a passionate 17-year-old programmer with over 4 years of experience in the world of coding. 🎉 My programming journey began when I was just 13, and since then, I've been diving headfirst into the universe of coding.
+I'm Anthony, a passionate 18-year-old programmer with over 4 years of experience in the world of coding. 🎉 My programming journey began when I was just 13, and since then, I've been diving headfirst into the universe of coding.
 
 ## 💼 Skills
 My love for programming has driven me to learn various languages and technologies. Here are some of my skills:
