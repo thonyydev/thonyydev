@@ -1,18 +1,7 @@
-# 👋 Hello!
+# Hey, I'm Thonyy 👋
 
-## About Me
-I'm Anthony, a passionate 18-year-old programmer with over 5 years of experience in the world of coding. 🎉 My programming journey began when I was just 13, and since then, I've been diving headfirst into the universe of coding.
+### Software Engineering student • Backend & Systems enthusiast • Building things to understand how they work
 
-## 💼 Skills
-My love for programming has driven me to learn various languages and technologies. Here are some of my skills:
+I’m a developer from Brazil 🇧🇷 who enjoys turning ideas into real projects, exploring how software works under the hood, and learning new technologies by building with them.
 
-- **Javascript:** I enjoy creating interactive and dynamic web applications.
-- **C#:** Mainly for developing Windows applications and games in Unity.
-- **Python:** A versatile language I use for automation, data analysis, and web development.
-- **Dart/Flutter:** To build sleek and functional mobile applications.
-- **HTML/CSS:** The foundation of any web developer, right?
-
-## 🚀 Projects
-I'm an open-source enthusiast and always working on something exciting. You can check out my projects on my GitHub profile [here](https://github.com/thonyydev).
-
-I'm always excited to connect with other programming enthusiasts and collaborate on interesting projects. Let's create amazing things together! 🤝
+Most of my projects revolve around **backend development, desktop applications, systems programming, game modding, and developer tools**.
