@@ -25,10 +25,10 @@ I like exploring what happens under the hood, learning new technologies by build
 
 | Project | What it does | Focus |
 | --- | --- | --- |
-| **[Furnace Distributor](https://github.com/thonyydev/FurnaceDistributor)** | Distribute items and collect outputs across multiple Minecraft furnaces with less repetitive work. | Java · Fabric · NeoForge |
-| **[No Effect Particles](https://github.com/thonyydev/NoEffectParticles)** | Lightweight client-side Minecraft mod that removes status-effect particles. | Java · Minecraft modding |
 | **[Focux](https://github.com/thonyydev/Focux)** | A TypeScript project focused on productivity and focused work sessions. | TypeScript · Web development |
+| **[Furnace Distributor](https://github.com/thonyydev/FurnaceDistributor)** | Distribute items and collect outputs across multiple Minecraft furnaces with less repetitive work. | Java · Fabric · NeoForge |
 | **[DownloadOrganizer](https://github.com/thonyydev/DownloadOrganizer)** | A lightweight desktop app that keeps your Downloads folder clean, organized, and under control. | Rust · Tauri 2 · React · TypeScript |
+| **[No Effect Particles](https://github.com/thonyydev/NoEffectParticles)** | Lightweight client-side Minecraft mod that removes status-effect particles. | Java · Minecraft modding |
 
 **[Explore all my repositories →](https://github.com/thonyydev?tab=repositories)**
 
