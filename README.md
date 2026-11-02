@@ -6,7 +6,7 @@ I build practical software to understand how things work — from desktop applic
 
 ```text
 thonyy@github:~$ whoami
-> Developer based in Brazil 🇧🇷
+> Brazilian developer 🇧🇷 | Building things, breaking things, learning always.
 
 thonyy@github:~$ ls interests/
 > backend/  systems/  desktop-apps/  developer-tools/  game-modding/
