@@ -1,22 +1,16 @@
-# Hey, I'm Thonyy 👋
+### Building desktop apps, web apps and Minecraft mods with Rust, TypeScript and Java
 
-**Software Engineering student** · **Backend & Systems Development** · **Open Source**
+Software Engineering student from Brazil 🇧🇷 · Backend & systems · Open source
 
-I build practical software to understand how things work — from desktop applications and developer tools to Minecraft mods.
+**Projects**
+- [Download Organizer](https://github.com/thonyydev/DownloadOrganizer): keeps your Downloads folder organized automatically (Rust + Tauri + React)
+- [Focux](https://github.com/thonyydev/Focux): minimalist Pomodoro timer with tasks, daily goals and streaks (Next.js + Firebase) · [focux.app](https://focux.app)
+- [Furnace Distributor](https://github.com/thonyydev/FurnaceDistributor): Minecraft mod that manages entire furnace setups at once (Java · Fabric & NeoForge)
 
-```text
-thonyy@github:~$ whoami
-> Brazilian developer 🇧🇷 | Building things, breaking things, learning always.
+**Stack:** Rust · TypeScript · React/Next.js · Java
 
-thonyy@github:~$ ls interests/
-> backend/  systems/  desktop-apps/  developer-tools/  game-modding/
+**Now:** learning C (pointers & data structures) in college
 
-thonyy@github:~$ cat philosophy.txt
-> Build to learn. Improve with feedback. Share what works.
-```
+🌐 [thonyy.dev](https://thonyy.dev)
 
-## About me
-
-I'm a Software Engineering student from Brazil who enjoys turning ideas into working projects. I'm especially interested in **backend development**, **systems programming**, and tools that make everyday tasks easier.
-
-I like exploring what happens under the hood, learning new technologies by building with them, and improving my projects through real-world use and community feedback.
+<sub>Build to learn. Improve with feedback. Share what works.</sub>
